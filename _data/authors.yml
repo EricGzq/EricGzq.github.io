@@ -1,0 +1,25 @@
+# The primary author of this blog.
+# Must be the same as `author` in `_config.yml`.
+# You can change `author1` to your shortname.
+author1:
+  name:              郭治卿
+  email:             guozhiqing@hnu.edu.cn
+
+  # Used at the bottom of each page and at the top of the `about` layout
+  # Markdown enabled, can use multiple paragraphs (enabled by `|`)
+  about:             |
+    Ph.D. student
+
+  # This photo will be used in the about section.
+  picture:
+    path:            assets/img/me.jpg
+
+  # Social media icons in sidebar.
+  # Comment/uncommet to show/hide. Rearrange to change the order in which they appear.
+  social:
+    email:             guozhiqing@hnu.edu.cn
+    github:            ericgzq
+    twitter:           https://twitter.com/EricGuo24
+  
+    # linkedin:        <firstname-lastname-string>
+
