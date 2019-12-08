@@ -1,0 +1,12 @@
+papers:
+
+  - layout: paper
+    year: 2017
+    paper-type: published
+    selected: yes
+    # img: 
+    title: Image processing of porous silicon microarray in refractive index change detection
+    authors: Z. Guo, Z. Jia, J. Yang, N. Kasabov, and C. Li
+    doc-url: http://xueshu.baidu.com/usercenter/paper/show?paperid=e4fbc2f858485859afe7f4606bf124d5&site=xueshu_se&hitarticle=1
+    abstract: emm .
+

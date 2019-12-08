@@ -1,0 +1,40 @@
+before-pubs:
+  -
+    heading: Honor
+    items:
+      -
+        title: Outstanding Graduate Thesis Award
+        year: 2018
+        detail: Xinjiang University
+      -
+        title: Graduate Provincial Scholarship
+        year: 2017
+        detail: Xinjiang University
+      -
+        title: Outstanding League Member
+        year: 2013
+        detail: Ocean University of China, Qingdao Colleage
+  
+  -
+    heading: Education
+    items:
+      -
+        title: Ph.D
+        year: 2018 - Now
+        detail: Hunan University, Colleage of Computer Science and Electronic Engineering
+      -
+        title: M.S
+        year: 2015 - 2018
+        detail: Xinjiang University, Colleage of Information Science and Engineering
+      -
+        title: B.S
+        year: 2010 - 2014
+        detail: Ocean University of China, Qingdao Colleage, Department of Information Science and Engineering
+  -
+    heading: Personal Material
+    items:
+      -
+        title: Resume
+        year: 2018.7
+        detail: <a href="https://github.com/EricGzq/EricGzq.github.io/tree/master/Resume">[Download]</a>
+      
