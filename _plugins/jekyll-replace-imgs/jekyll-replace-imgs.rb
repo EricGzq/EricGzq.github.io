@@ -32,7 +32,7 @@ REPLACEMENT = '
     </span>
   </hy-img>'
 
-CONFIG_KEY = 'replace_imgs'
+CONFIG_KEY = 'replace_imgsx'
 REPLACEMENT_KEY = 'replacement'
 
 Jekyll::Hooks.register([:pages, :documents], :post_render) do |page|
