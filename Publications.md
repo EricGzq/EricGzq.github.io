@@ -18,9 +18,9 @@ order:  1
 >Ruyong Ren, Zhiqing Guo, et al. Scientific Reports, 2019. (SCI, IF=4.29)
 
 ## Patents
-* Z. Guo and Z. Jia. 生物芯片荧光图像倾斜角度的确定方法及装置.
-* Z. Guo and Z. Jia. 一种生物芯片图像倾斜的校正方法及装置.
-* Z. Guo and Z. Jia. 一种生物芯片反射光图像的分割方法及装置.
+* Z. Guo and Z. Jia. Chinese patent: 201710413734.6
+* Z. Guo and Z. Jia. Chinese patent: 201710413744.X
+* Z. Guo and Z. Jia. Chinese patent: 201710475243.4
 
 ## Software Copyrights
-* Z. Guo and Z. Jia. 多孔硅微阵列的反射光图像处理系统.
+* Z. Guo and Z. Jia. NO.2017SR351936.
