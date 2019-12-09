@@ -23,4 +23,4 @@ order:  1
 * Z. Guo and Z. Jia. Chinese patent: 201710475243.4
 
 ## Software Copyrights
-* Z. Guo and Z. Jia. NO.2017SR351936.
+* Z. Guo and Z. Jia. No.2017SR351936.
