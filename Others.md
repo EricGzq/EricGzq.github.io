@@ -22,4 +22,5 @@ order:  4
 * [任正非管理思想](http://www.ruanyifeng.com/blog/2019/08/ren-zhengfei.html)
 * [Deconvolution and Checkerboard Artifacts](https://distill.pub/2016/deconv-checkerboard/)
 * [Google AI Blog: Contributing Data to Deepfake Detection Research](https://ai.googleblog.com/2019/09/contributing-data-to-deepfake-detection.html)
+* [深度思考能力是如何被毁掉的？](https://bro-res2.flyme.cn/resources/info/index.html?artId=619&mzNewsId=mz619&mzChannelId=280&mzChannelType=meizu&mpBusinessId=619&mpBusinessType=6&mpBusinessSubType=0&mzPushId=88013010565722682753&from=timeline&isappinstalled=0)
 
