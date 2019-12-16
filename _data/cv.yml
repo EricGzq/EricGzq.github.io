@@ -35,9 +35,9 @@ before-pubs:
     heading: Experience
     items:
       -
-      title: Minister
-      year: 2019 - 2020
-      detail: Doctoral student management center
+        title: Minister
+        year: 2019 - 2020
+        detail: Doctoral student management center
     
   -
     heading: Personal Material
