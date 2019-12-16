@@ -30,6 +30,15 @@ before-pubs:
         title: B.S
         year: 2010 - 2014
         detail: Ocean University of China, Qingdao Colleage, Department of Information Science and Engineering
+    
+  -
+    heading: Experience
+    items:
+      -
+      title: Minister
+      year: 2019 - 2020
+      detail: Doctoral student management center
+    
   -
     heading: Personal Material
     items:
