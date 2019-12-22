@@ -11,7 +11,7 @@ order:  1
 >                         -- William Shakespeare
 
 ## Papers
-* [Image processing of porous silicon microarray in refractive index change detection](http://xueshu.baidu.com/usercenter/paper/show?paperid=e4fbc2f858485859afe7f4606bf124d5&site=xueshu_se&hitarticle=1)
+* [Image processing of porous silicon microarray in refractive index change detection](https://www.mdpi.com/1424-8220/17/6/1335)
 >Zhiqing Guo, Zhenhong Jia, et al. Sensors, 2017. (SCI, IF=2.677)
 
 * [Speckle Noise Removal in Image-based Detection of Refractive Index Changes in Porous Silicon Microarrays](https://www.nature.com/articles/s41598-019-51435-y)
