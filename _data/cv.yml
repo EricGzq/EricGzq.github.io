@@ -13,7 +13,7 @@ before-pubs:
       -
         title: Outstanding League Member
         year: 2013
-        detail: Qingdao Colleage, Ocean University of China
+        detail: Qingdao College, Ocean University of China
   
   -
     heading: Education
@@ -29,7 +29,7 @@ before-pubs:
       -
         title: B.S
         year: 2010 - 2014
-        detail: Department of Information Science and Engineering, Qingdao Colleage, Ocean University of China
+        detail: Department of Information Science and Engineering, Qingdao College, Ocean University of China
     
   -
     heading: Experience
