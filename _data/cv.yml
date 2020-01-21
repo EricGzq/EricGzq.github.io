@@ -13,7 +13,7 @@ before-pubs:
       -
         title: Outstanding League Member
         year: 2013
-        detail: Ocean University of China, Qingdao Colleage
+        detail: Qingdao Colleage, Ocean University of China
   
   -
     heading: Education
@@ -21,15 +21,15 @@ before-pubs:
       -
         title: Ph.D
         year: 2018 - Now
-        detail: Hunan University, Colleage of Computer Science and Electronic Engineering
+        detail: Colleage of Computer Science and Electronic Engineering, Hunan University
       -
         title: M.S
         year: 2015 - 2018
-        detail: Xinjiang University, Colleage of Information Science and Engineering
+        detail: Colleage of Information Science and Engineering, Xinjiang University
       -
         title: B.S
         year: 2010 - 2014
-        detail: Ocean University of China, Qingdao Colleage, Department of Information Science and Engineering
+        detail: Department of Information Science and Engineering, Qingdao Colleage, Ocean University of China
     
   -
     heading: Experience
