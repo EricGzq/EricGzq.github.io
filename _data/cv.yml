@@ -3,6 +3,14 @@ before-pubs:
     heading: Honor
     items:
       -
+        title: Excellent Graduate Cadres
+        year: 2020
+        detail: Hunan University
+      -
+        title: Excellent Volunteers Fighting COVID-19
+        year: 2020
+        detail: Hunan University
+      -
         title: Outstanding Graduate Thesis Award
         year: 2018
         detail: Xinjiang University
@@ -36,8 +44,12 @@ before-pubs:
     items:
       -
         title: Minister
-        year: 2019 - Present
+        year: 2019 - 2020
         detail: Doctoral Student Affairs Department, College of Computer Science and Electronic Engineering, Hunan University
+      -
+        title: Volunteer
+        year: 2020
+        detail: During COVID-19, he served as a volunteer for service activities in Hunan university.
     
   -
     heading: Personal Material
