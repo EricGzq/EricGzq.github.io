@@ -43,13 +43,13 @@ before-pubs:
     heading: Experience
     items:
       -
-        title: Minister
-        year: 2019 - 2020
-        detail: Doctoral Student Affairs Department, College of Computer Science and Electronic Engineering, Hunan University
-      -
         title: Volunteer
         year: 2020
         detail: During COVID-19, he served as a volunteer for service activities in Hunan university.
+      -
+        title: Minister
+        year: 2019 - 2020
+        detail: Doctoral Student Affairs Department, College of Computer Science and Electronic Engineering, Hunan University
     
   -
     heading: Personal Material
