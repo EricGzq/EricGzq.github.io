@@ -11,9 +11,9 @@ order:  1
 >                         -- William Shakespeare
 
 ## Papers
-* [Blind Detection of Glow-based Facial Forgery](https://link.springer.com/article/10.1007/s11042-020-10098-y)
+* [Blind Detection of Glow-based Facial Forgery](https://link.springer.com/article/10.1007/s11042-020-10098-y) 丨 [[PDF]](https://link.springer.com/content/pdf/10.1007/s11042-020-10098-y.pdf) [[Dataset]](https://github.com/EricGzq/GFF-Dataset)
 >Zhiqing Guo, Lipin Hu, Ming Xia, and Gaobo Yang. Multimedia Tools and Applications, 2020. (CCF C) 
-[[PDF]](https://link.springer.com/content/pdf/10.1007/s11042-020-10098-y.pdf) [[Dataset]](https://github.com/EricGzq/GFF-Dataset)
+
 
 * [Image processing of porous silicon microarray in refractive index change detection](https://www.mdpi.com/1424-8220/17/6/1335)
 >Zhiqing Guo, Zhenhong Jia, et al. Sensors, 2017. (SCI, IF=2.677)
