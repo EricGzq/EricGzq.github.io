@@ -10,6 +10,13 @@ order:  4
 >
 >                                      -- Kobe Bryant
 
+## Some Thoughts:
+* 如果你真的愿意去努力，人生最坏的结果也不过是大器晚成。
+* 优秀的人很清楚自己要什么，并为此奋不顾身。
+* 我的青春似乎睡了很久很久，梦中的我贪玩，懒散，漫无目的，也无所事事。直到有一天，突然惊醒于这世间，开始了一路狂奔。
+* 人要持之以恒的进步，而不是总去介怀那个高考后的夏天。
+
+
 ## Some useful links:
 * [Xintong Han](http://users.umiacs.umd.edu/~xintong/)
 * [Albert Pumarola](https://www.albertpumarola.com/#page)
@@ -26,7 +33,5 @@ order:  4
 * [Xiu-Shen WEI](http://www.weixiushen.com/tutorials.html?utm_source=wechat_session&utm_medium=social&utm_oi=40067351445504&nsukey=QlR%2BHAhHlfZ3jZFk2WiUvuWB1l%2BkEZ9H8VekqENKXEV5tDJCsjekmcE7yN9JrA6XcLakeYE%2BjvasKDTw8yGRcQ%2B5RZLjg2OZ9iJp7DibcTGAgeKpQtyMXOShEVa5Lz524YI3%2BYU%2FlzVNoJ0oUDf7Bg%3D%3D)
 * [Kai-Ming HE](http://kaiminghe.com/)
 
-## Some Thoughts:
-* 如果你真的愿意去努力，人生最坏的结果也不过是大器晚成。
-# 优秀的人很清楚自己要什么，并为此奋不顾身。
+
 
