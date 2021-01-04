@@ -15,11 +15,11 @@ order:  1
 >Zhiqing Guo, Gaobo Yang, Jiyou Chen, and Xingming Sun. IEEE Transactions on Information Forensics and Security, Submitted. (CCF A) 
 
 * [Fake face detection via adaptive manipulation traces extraction network](https://arxiv.org/abs/2005.04945)
-[[pdf]](https://arxiv.org/pdf/2005.04945.pdf) [[dataset]](https://github.com/EricGzq/Hybrid-Fake-Face-Dataset)
+>[[pdf]](https://arxiv.org/pdf/2005.04945.pdf) [[dataset]](https://github.com/EricGzq/Hybrid-Fake-Face-Dataset)
 >Zhiqing Guo, Gaobo Yang, Jiyou Chen, and Xingming Sun. Computer Vision and Image Understanding, Major Revision. (CCF B) 
 
 * [Blind detection of glow-based facial forgery](https://link.springer.com/article/10.1007/s11042-020-10098-y)
-[[pdf]](https://link.springer.com/content/pdf/10.1007/s11042-020-10098-y.pdf) [[dataset]](https://github.com/EricGzq/GFF-Dataset)
+>>[[pdf]](https://link.springer.com/content/pdf/10.1007/s11042-020-10098-y.pdf) [[dataset]](https://github.com/EricGzq/GFF-Dataset)
 >Zhiqing Guo, Lipin Hu, Ming Xia, and Gaobo Yang. Multimedia Tools and Applications, 2020. (CCF C) 
 
 * [Image processing of porous silicon microarray in refractive index change detection](https://www.mdpi.com/1424-8220/17/6/1335)
