@@ -26,3 +26,7 @@ order:  4
 * [Xiu-Shen WEI](http://www.weixiushen.com/tutorials.html?utm_source=wechat_session&utm_medium=social&utm_oi=40067351445504&nsukey=QlR%2BHAhHlfZ3jZFk2WiUvuWB1l%2BkEZ9H8VekqENKXEV5tDJCsjekmcE7yN9JrA6XcLakeYE%2BjvasKDTw8yGRcQ%2B5RZLjg2OZ9iJp7DibcTGAgeKpQtyMXOShEVa5Lz524YI3%2BYU%2FlzVNoJ0oUDf7Bg%3D%3D)
 * [Kai-Ming HE](http://kaiminghe.com/)
 
+## Some Thoughts:
+* 如果你真的愿意去努力，人生最坏的结果也不过是大器晚成。
+# 优秀的人很清楚自己要什么，并为此奋不顾身。
+
