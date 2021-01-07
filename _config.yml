@@ -31,7 +31,7 @@ tagline:               >
   Hunan University
 
 # A list of keywords for your blog.
-keywords:              [guozhiqing, eric, CV, DL]
+keywords:              [guozhiqing, CV, DL]
 
 # Used by jekyll-seo-tag.
 logo:                  /assets/img/me.jpg
@@ -161,7 +161,7 @@ hydejack:
 
   # Set to `true` if you do not want to expose your resume and projects
   # in machine-readable formats.
-  no_structured_data:  true
+  no_structured_data:  false
 
   # You can set this to `true` if you don't want to set the `theme-color` meta tag,
   # This only affects the meta tag, not the color specified in the app manifest.
