@@ -38,7 +38,7 @@ logo:                  /assets/img/me.jpg
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
-  name:                郭治卿
+  name:                guozhiqing
   picture:             /assets/img/me.jpg
   social:
     email:               'guozhiqing@hnu.edu.cn'
