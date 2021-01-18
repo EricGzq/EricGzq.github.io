@@ -27,9 +27,8 @@ order:  1
 >Ruyong Ren, Zhiqing Guo, et al. Scientific Reports, 2019. (SCI, IF=4.29)
 
 ## Patents
-* Zhiqing Guo, et al. China Patent: No.201710413734.6
-* Zhiqing Guo, et al. China Patent: No.201710413744.X
-* Zhiqing Guo, et al. China Patent: No.201710475243.4
+* Zhiqing Guo, et al. China Patent: CN201710413734.6
+* Zhiqing Guo, et al. China Patent: CN201710413744.X
 
 ## Software Copyrights
 * Zhiqing Guo, et al. No.2017SR351936.
