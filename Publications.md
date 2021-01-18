@@ -15,7 +15,7 @@ order:  1
 >Zhiqing Guo, Gaobo Yang, Jiyou Chen, and Xingming Sun. IEEE Transactions on Information Forensics and Security, Submitted. (CCF A) 
 
 * [Fake face detection via adaptive manipulation traces extraction network](https://arxiv.org/abs/2005.04945)
->Zhiqing Guo, Gaobo Yang, Jiyou Chen, and Xingming Sun. Computer Vision and Image Understanding, Major Revision. (CCF B) [[pdf]](https://arxiv.org/pdf/2005.04945.pdf) [[dataset]](https://github.com/EricGzq/Hybrid-Fake-Face-Dataset)
+>Zhiqing Guo, Gaobo Yang, Jiyou Chen, and Xingming Sun. Computer Vision and Image Understanding, 2021. (CCF B) [[pdf]](https://arxiv.org/pdf/2005.04945.pdf) [[code]](https://github.com/EricGzq/AMTENnet) [[dataset]](https://github.com/EricGzq/Hybrid-Fake-Face-Dataset)
 
 * [Blind detection of glow-based facial forgery](https://link.springer.com/article/10.1007/s11042-020-10098-y)
 >Zhiqing Guo, Lipin Hu, Ming Xia, and Gaobo Yang. Multimedia Tools and Applications, 2020. (CCF C) [[pdf]](https://link.springer.com/content/pdf/10.1007/s11042-020-10098-y.pdf) [[dataset]](https://github.com/EricGzq/GFF-Dataset)
@@ -27,9 +27,9 @@ order:  1
 >Ruyong Ren, Zhiqing Guo, et al. Scientific Reports, 2019. (SCI, IF=4.29)
 
 ## Patents
-* Z. Guo, et al. China Patent: No.201710413734.6
-* Z. Guo, et al. China Patent: No.201710413744.X
-* Z. Guo, et al. China Patent: No.201710475243.4
+* Zhiqing Guo, et al. China Patent: No.201710413734.6
+* Zhiqing Guo, et al. China Patent: No.201710413744.X
+* Zhiqing Guo, et al. China Patent: No.201710475243.4
 
 ## Software Copyrights
-* Z. Guo, et al. No.2017SR351936.
+* Zhiqing Guo, et al. No.2017SR351936.
