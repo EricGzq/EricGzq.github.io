@@ -32,4 +32,8 @@ order:  1
 * Zhiqing Guo, et al. China Patent: CN201710413744.X
 
 ## Software Copyrights
-* Zhiqing Guo, et al. No.2017SR351936.
+* Zhiqing Guo, et al. No.2017SR719030 (微阵列荧光图像的倾斜校正系统 v1.0).
+* Zhiqing Guo, et al. No.2017SR719435 (基于圆度判别的微阵列图像倾斜校正系统 v1.0).
+* Zhiqing Guo, et al. No.2017SR351936 (多孔硅微阵列的反射光图像处理系统 v1.0).
+* Zhiqing Guo, et al. No.2018SR408738 (PSM生物芯片反射光图像处理与分析系统 v2.0).
+
