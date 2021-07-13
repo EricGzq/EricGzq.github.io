@@ -3,28 +3,28 @@ before-pubs:
     heading: Honor
     items:
       -
-        title: Outstanding Communist
         year: 2021
+        title: Outstanding Communist
         detail: Communist Party of China Hunan University Committee
       -
+        year: 2020
         title: Outstanding Graduate Cadres
-        year: 2020
         detail: Hunan University
       -
+        year: 2020
         title: Outstanding Volunteers
-        year: 2020
         detail: Hunan University
       -
-        title: Outstanding Graduate Thesis Award
         year: 2018
+        title: Outstanding Graduate Thesis Award
         detail: Xinjiang University
       -
-        title: Graduate Provincial Scholarship
         year: 2017
+        title: Graduate Provincial Scholarship
         detail: Xinjiang University
       -
-        title: Outstanding League Member
         year: 2013
+        title: Outstanding League Member
         detail: Qingdao College, Ocean University of China
   
   -
@@ -47,19 +47,18 @@ before-pubs:
     heading: Experience
     items:
       -
-        title: Volunteer
         year: 2020
+        title: Volunteer
         detail: During COVID-19, he served as a volunteer for service activities in Hunan university
       -
-        title: Minister
         year: 2019 - 2020
+        title: Minister
         detail: Doctoral Student Affairs Department, College of Computer Science and Electronic Engineering, Hunan University
     
   -
     heading: Personal Material
     items:
       -
-        title: Resume
-        year: 2020.7
+        title: Resume update in July 2020
         detail: <a href="https://github.com/EricGzq/EricGzq.github.io/tree/master/Resume">[Download]</a>
       
