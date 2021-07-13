@@ -3,7 +3,9 @@ before-pubs:
     heading: Honor
     items:
       -
-        2021, Outstanding Communist, Communist Party of China Hunan University Committee
+        year: 2021
+        title: Outstanding Communist
+        detail: Communist Party of China Hunan University Committee
       -
         year: 2020
         title: Outstanding Graduate Cadres
