@@ -34,9 +34,9 @@ before-pubs:
         title: 2019.10 - 2020.10, Minister. Doctoral Student Affairs Department, College of Computer Science and Electronic Engineering, Hunan University
     
   -
-    heading: Personal Material
-    items:
-      -
-        title: Resume updated in July 2020
-        detail: <a href="https://github.com/EricGzq/EricGzq.github.io/tree/master/Resume">[Download]</a>
+    #heading: Personal Material
+    #items:
+    #  -
+    #    title: Resume updated in July 2020
+    #    detail: <a href="https://github.com/EricGzq/EricGzq.github.io/tree/master/Resume">[Download]</a>
       
