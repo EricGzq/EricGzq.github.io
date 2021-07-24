@@ -22,8 +22,8 @@ order:  4
 * [任正非管理思想](http://www.ruanyifeng.com/blog/2019/08/ren-zhengfei.html)
 * [Deconvolution and Checkerboard Artifacts](https://distill.pub/2016/deconv-checkerboard/)
 * [深度思考能力是如何被毁掉的？](https://bro-res2.flyme.cn/resources/info/index.html?artId=619&mzNewsId=mz619&mzChannelId=280&mzChannelType=meizu&mpBusinessId=619&mpBusinessType=6&mpBusinessSubType=0&mzPushId=88013010565722682753&from=timeline&isappinstalled=0)
-* [Xiushen WEI](http://www.weixiushen.com/index.html)
-* [Kaiming HE](http://kaiminghe.com/)
+* [Xiushen Wei](http://www.weixiushen.com/index.html)
+* [Kaiming He](http://kaiminghe.com/)
 * [Tables Generator](https://www.tablesgenerator.com/)
 
 
