@@ -6,9 +6,7 @@ menu:   true
 order:  3
 ---
 * Zhi-Qing GUO
-> School of Information Science and Engineering
-> 
-> Hunan University
+> School of Information Science and Engineering, Hunan University
 > 
 > Changsha 410082, China
 
