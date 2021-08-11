@@ -11,7 +11,7 @@ order:  3
 > Changsha 410082, China
 
 * Feel free to contact me via
-> E-mail: guozhiqing@hnu.edu.cn
+> E-mail: guozhiqing [at] hnu [dot] edu [dot] cn 
 > 
 > WeChat: ethereal_seven
 
