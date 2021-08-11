@@ -12,6 +12,4 @@ order:  3
 
 * Feel free to contact me via
 > E-mail: guozhiqing [at] hnu [dot] edu [dot] cn 
-> 
-> WeChat: ethereal_seven
 
