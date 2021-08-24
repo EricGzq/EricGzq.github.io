@@ -26,6 +26,7 @@ order:  4
 * [Kaiming He](http://kaiminghe.com/)
 * [Tables Generator](https://www.tablesgenerator.com/)
 * [读《求是》，做投资——世界新格局下的中国制度优势和投资方向](https://www.guancha.cn/LiShiMo/2020_11_14_571405_s.shtml)
+* [Best paper list](https://jeffhuang.com/best_paper_awards/)
 
 
 
