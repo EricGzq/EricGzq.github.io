@@ -11,8 +11,6 @@ order:  1
 >                         -- William Shakespeare
 
 ## Papers
-* [Attention-based Guided Residuals Network for Detecting AI-Generated Face Forgeries]
->Zhiqing Guo, Gaobo Yang, Jiyou Chen, and Xingming Sun. IEEE Transactions on Information Forensics and Security, Submitted. (CCF A) 
 
 * [Fake face detection via adaptive manipulation traces extraction network](https://www.sciencedirect.com/science/article/pii/S107731422100014X)
 >Zhiqing Guo, Gaobo Yang, Jiyou Chen, and Xingming Sun. Computer Vision and Image Understanding, 2021. (CCF B) [[pdf]](https://www.sciencedirect.com/science/article/pii/S107731422100014X/pdfft?md5=78dc3a866770e98d0a3772ea71186c6a&pid=1-s2.0-S107731422100014X-main.pdf) [[code]](https://github.com/EricGzq/AMTENnet) [[dataset]](https://github.com/EricGzq/Hybrid-Fake-Face-Dataset)
