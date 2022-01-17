@@ -20,5 +20,5 @@ order:  4
 * [深度思考能力是如何被毁掉的？](https://bro-res2.flyme.cn/resources/info/index.html?artId=619&mzNewsId=mz619&mzChannelId=280&mzChannelType=meizu&mpBusinessId=619&mpBusinessType=6&mpBusinessSubType=0&mzPushId=88013010565722682753&from=timeline&isappinstalled=0)
 * [读《求是》，做投资——世界新格局下的中国制度优势和投资方向](https://www.guancha.cn/LiShiMo/2020_11_14_571405_s.shtml)
 * [党的百年奋斗重大成就和历史经验的决议](http://www.gov.cn/zhengce/2021-11/16/content_5651269.htm)
-
+* [新青年的七大标准](https://baijiahao.baidu.com/s?id=1696206774155099277&wfr=spider&for=pc)
 
