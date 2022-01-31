@@ -11,7 +11,7 @@ order:  1
 >                         -- William Shakespeare
 
 ## Papers
-*[Robust detection of dehazed images via dual-stream CNNs with adaptive feature fusion]()
+* [Robust detection of dehazed images via dual-stream CNNs with adaptive feature fusion]()
 >Jiyou Chen, Gaobo Yang, Xiangling Ding, Zhiqing Guo, and Shuai Wang. Computer Vision and Image Understanding, 2022. (CCF B) [[pdf]](https://www.sciencedirect.com/science/article/pii/S1077314222000017?dgcid=coauthor)
 
 * [Fake face detection via adaptive manipulation traces extraction network](https://www.sciencedirect.com/science/article/pii/S107731422100014X)
