@@ -6,7 +6,7 @@ menu:   true
 order:  3
 ---
 * Address
-> School of Information Science and Engineering, Hunan University
+> College of Computer Science and Electronic Engineering, Hunan University
 > 
 > Changsha 410082, China
 
