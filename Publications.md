@@ -11,20 +11,26 @@ order:  1
 >                         -- William Shakespeare
 
 ## Papers
-* [Robust detection of dehazed images via dual-stream CNNs with adaptive feature fusion]()
->Jiyou Chen, Gaobo Yang, Xiangling Ding, Zhiqing Guo, and Shuai Wang. Computer Vision and Image Understanding, 2022. (CCF B) [[pdf]](https://www.sciencedirect.com/science/article/pii/S1077314222000017?dgcid=coauthor)
+*[Rethinking Gradient Operator for Exposing AI-enabled Face Forgeries]()
+>**Z. Guo**, G. Yang, D. Zhang, and M. Xia. [[arXiv]](https://arxiv.org/abs/2205.00767)
+
+*[Exposing Deepfake Face Forgeries with Guided Residuals]()
+>**Z. Guo**, G. Yang, J. Chen, and X. Sun. [[arXiv]](https://arxiv.org/abs/2205.00753)
+
+* [Robust detection of dehazed images via dual-stream CNNs with adaptive feature fusion](https://www.sciencedirect.com/science/article/pii/S1077314222000017)
+>J. Chen, G. Yang, X. Ding, **Z. Guo**, and S. Wang. Computer Vision and Image Understanding, 2022. (CCF B) [[pdf]](https://www.sciencedirect.com/science/article/pii/S1077314222000017?dgcid=coauthor)
 
 * [Fake face detection via adaptive manipulation traces extraction network](https://www.sciencedirect.com/science/article/pii/S107731422100014X)
->Zhiqing Guo, Gaobo Yang, Jiyou Chen, and Xingming Sun. Computer Vision and Image Understanding, 2021. (CCF B) [[pdf]](https://www.sciencedirect.com/science/article/pii/S107731422100014X/pdfft?md5=78dc3a866770e98d0a3772ea71186c6a&pid=1-s2.0-S107731422100014X-main.pdf) [[code]](https://github.com/EricGzq/AMTENnet) [[dataset]](https://github.com/EricGzq/Hybrid-Fake-Face-Dataset)
+>**Z. Guo**, G. Yang, J. Chen, and X. Sun. Computer Vision and Image Understanding, 2021. (CCF B) [[pdf]](https://www.sciencedirect.com/science/article/pii/S107731422100014X/pdfft?md5=78dc3a866770e98d0a3772ea71186c6a&pid=1-s2.0-S107731422100014X-main.pdf) [[code]](https://github.com/EricGzq/AMTENnet) [[dataset]](https://github.com/EricGzq/Hybrid-Fake-Face-Dataset)
 
 * [Blind detection of glow-based facial forgery](https://link.springer.com/article/10.1007/s11042-020-10098-y)
->Zhiqing Guo, Lipin Hu, Ming Xia, and Gaobo Yang. Multimedia Tools and Applications, 2020. (CCF C) [[pdf]](https://link.springer.com/content/pdf/10.1007/s11042-020-10098-y.pdf) [[dataset]](https://github.com/EricGzq/GFF-Dataset)
+>**Z. Guo**, L. Hu, M. Xia, and G. Yang. Multimedia Tools and Applications, 2020. (CCF C) [[pdf]](https://link.springer.com/content/pdf/10.1007/s11042-020-10098-y.pdf) [[dataset]](https://github.com/EricGzq/GFF-Dataset)
 
 * [Speckle Noise Removal in Image-based Detection of Refractive Index Changes in Porous Silicon Microarrays](https://www.nature.com/articles/s41598-019-51435-y)
->Ruyong Ren, Zhiqing Guo, et al. Scientific Reports, 2019. (SCI, IF=4.29)
+>R. Ren, **Z. Guo**, Z. Jia, J. Yang, N. K. Kasabov, and C. Li. Scientific Reports, 2019. (SCI, IF=4.29)
 
 * [Image processing of porous silicon microarray in refractive index change detection](https://www.mdpi.com/1424-8220/17/6/1335)
->Zhiqing Guo, Zhenhong Jia, et al. Sensors, 2017. (SCI, IF=2.677)
+>**Z. Guo**, Z. Jia, J. Yang, N. K. Kasabov, and C. Li. Sensors, 2017. (SCI, IF=2.677)
 
 
 ## Patents
