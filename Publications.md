@@ -11,10 +11,10 @@ order:  1
 >                         -- William Shakespeare
 
 ## Papers
-*[Rethinking Gradient Operator for Exposing AI-enabled Face Forgeries]()
+* [Rethinking Gradient Operator for Exposing AI-enabled Face Forgeries]()
 >**Z. Guo**, G. Yang, D. Zhang, and M. Xia. [[arXiv]](https://arxiv.org/abs/2205.00767)
 
-*[Exposing Deepfake Face Forgeries with Guided Residuals]()
+* [Exposing Deepfake Face Forgeries with Guided Residuals]()
 >**Z. Guo**, G. Yang, J. Chen, and X. Sun. [[arXiv]](https://arxiv.org/abs/2205.00753)
 
 * [Robust detection of dehazed images via dual-stream CNNs with adaptive feature fusion](https://www.sciencedirect.com/science/article/pii/S1077314222000017)
