@@ -6,9 +6,6 @@ menu:   true
 order:  1
 ---
 
-> _What's past is prologue._
->
->                         -- William Shakespeare
 
 ## Papers
 * [Rethinking Gradient Operator for Exposing AI-enabled Face Forgeries]()
@@ -34,12 +31,12 @@ order:  1
 
 
 ## Patents
-* Zhiqing Guo, et al. China Patent: CN201710413734.6
-* Zhiqing Guo, et al. China Patent: CN201710413744.X
+* Z. Guo and Z. Jia. China Patent: CN201710413734.6
+* Z. Guo and Z. Jia. China Patent: CN201710413744.X
 
 ## Software Copyrights
-* Zhiqing Guo, et al. No.2017SR719030 (微阵列荧光图像的倾斜校正系统 v1.0).
-* Zhiqing Guo, et al. No.2017SR719435 (基于圆度判别的微阵列图像倾斜校正系统 v1.0).
-* Zhiqing Guo, et al. No.2017SR351936 (多孔硅微阵列的反射光图像处理系统 v1.0).
-* Zhiqing Guo, et al. No.2018SR408738 (PSM生物芯片反射光图像处理与分析系统 v2.0).
+* Z. Guo and Z. Jia. No.2017SR719030 (微阵列荧光图像的倾斜校正系统 v1.0).
+* Z. Guo and Z. Jia. No.2017SR719435 (基于圆度判别的微阵列图像倾斜校正系统 v1.0).
+* Z. Guo and Z. Jia. No.2017SR351936 (多孔硅微阵列的反射光图像处理系统 v1.0).
+* Z. Guo and Z. Jia. No.2018SR408738 (PSM生物芯片反射光图像处理与分析系统 v2.0).
 
