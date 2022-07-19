@@ -18,7 +18,7 @@ order:  1
 >**Z. Guo**, G. Yang, J. Chen, and X. Sun. [[arXiv]](https://arxiv.org/abs/2205.00753)
 
 * [Robust detection of dehazed images via dual-stream CNNs with adaptive feature fusion](https://www.sciencedirect.com/science/article/pii/S1077314222000017)
->J. Chen, G. Yang, X. Ding, **Z. Guo**, and S. Wang. Computer Vision and Image Understanding, 2022. (CCF B) [[pdf]]()(https://www.sciencedirect.com/science/article/pii/S1077314222000017?dgcid=coauthor)
+>J. Chen, G. Yang, X. Ding, **Z. Guo**, and S. Wang. Computer Vision and Image Understanding, 2022. (CCF B) [[pdf]](https://www.sciencedirect.com/science/article/pii/S1077314222000017?dgcid=coauthor)
 
 * [Fake face detection via adaptive manipulation traces extraction network](https://www.sciencedirect.com/science/article/pii/S107731422100014X)
 >**Z. Guo**, G. Yang, J. Chen, and X. Sun. Computer Vision and Image Understanding, 2021. (CCF B) [[pdf]](https://www.sciencedirect.com/science/article/pii/S107731422100014X) [[code]](https://github.com/EricGzq/AMTENnet) [[dataset]](https://github.com/EricGzq/Hybrid-Fake-Face-Dataset)
