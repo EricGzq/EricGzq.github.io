@@ -8,7 +8,7 @@ order:  1
 
 
 ## Papers
-* [HDNet: A dual-stream network with progressive fusion for image hazing detection]()
+* [HDNet: A dual-stream network with progressive fusion for image hazing detection]
 >J. Chen, G. Yang, M. Xia, **Z. Guo**, and T. Huang. Journal of Information Security and Applications, 2022. (CCF C) [[pdf]](https://www.sciencedirect.com/science/article/pii/S2214212622001314?dgcid=coauthor)
 
 * [Rethinking Gradient Operator for Exposing AI-enabled Face Forgeries]()
@@ -21,7 +21,7 @@ order:  1
 >J. Chen, G. Yang, X. Ding, **Z. Guo**, and S. Wang. Computer Vision and Image Understanding, 2022. (CCF B) [[pdf]]()(https://www.sciencedirect.com/science/article/pii/S1077314222000017?dgcid=coauthor)
 
 * [Fake face detection via adaptive manipulation traces extraction network](https://www.sciencedirect.com/science/article/pii/S107731422100014X)
->**Z. Guo**, G. Yang, J. Chen, and X. Sun. Computer Vision and Image Understanding, 2021. (CCF B) [[pdf]](https://www.sciencedirect.com/science/article/pii/S107731422100014X/pdfft?md5=78dc3a866770e98d0a3772ea71186c6a&pid=1-s2.0-S107731422100014X-main.pdf) [[code]](https://github.com/EricGzq/AMTENnet) [[dataset]](https://github.com/EricGzq/Hybrid-Fake-Face-Dataset)
+>**Z. Guo**, G. Yang, J. Chen, and X. Sun. Computer Vision and Image Understanding, 2021. (CCF B) [[pdf]](https://www.sciencedirect.com/science/article/pii/S107731422100014X) [[code]](https://github.com/EricGzq/AMTENnet) [[dataset]](https://github.com/EricGzq/Hybrid-Fake-Face-Dataset)
 
 * [Blind detection of glow-based facial forgery](https://link.springer.com/article/10.1007/s11042-020-10098-y)
 >**Z. Guo**, L. Hu, M. Xia, and G. Yang. Multimedia Tools and Applications, 2020. (CCF C) [[pdf]](https://link.springer.com/content/pdf/10.1007/s11042-020-10098-y.pdf) [[dataset]](https://github.com/EricGzq/GFF-Dataset)
