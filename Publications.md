@@ -8,7 +8,7 @@ order:  1
 
 
 ## Papers
-* [HDNet: A dual-stream network with progressive fusion for image hazing detection]
+* [HDNet: A dual-stream network with progressive fusion for image hazing detection]()
 >J. Chen, G. Yang, M. Xia, **Z. Guo**, and T. Huang. Journal of Information Security and Applications, 2022. (CCF C) [[pdf]](https://www.sciencedirect.com/science/article/pii/S2214212622001314?dgcid=coauthor)
 
 * [Rethinking Gradient Operator for Exposing AI-enabled Face Forgeries]()
