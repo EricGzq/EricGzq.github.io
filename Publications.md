@@ -8,8 +8,8 @@ order:  1
 
 
 ## Papers
-* [HDNet: A dual-stream network with progressive fusion for image hazing detection]()
->J. Chen, G. Yang, M. Xia, **Z. Guo**, and T. Huang. Journal of Information Security and Applications, 2022. (CCF C) [[pdf]](https://www.sciencedirect.com/science/article/pii/S2214212622001314?dgcid=coauthor)
+* [HDNet: A dual-stream network with progressive fusion for image hazing detection](https://www.sciencedirect.com/science/article/pii/S2214212622001314?dgcid=coauthor)
+>J. Chen, G. Yang, M. Xia, **Z. Guo**, and T. Huang. Journal of Information Security and Applications, 2022. (CCF C)
 
 * [Rethinking Gradient Operator for Exposing AI-enabled Face Forgeries]()
 >**Z. Guo**, G. Yang, D. Zhang, and M. Xia. [[arXiv]](https://arxiv.org/abs/2205.00767)
@@ -18,13 +18,13 @@ order:  1
 >**Z. Guo**, G. Yang, J. Chen, and X. Sun. [[arXiv]](https://arxiv.org/abs/2205.00753)
 
 * [Robust detection of dehazed images via dual-stream CNNs with adaptive feature fusion](https://www.sciencedirect.com/science/article/pii/S1077314222000017)
->J. Chen, G. Yang, X. Ding, **Z. Guo**, and S. Wang. Computer Vision and Image Understanding, 2022. (CCF B) [[pdf]](https://www.sciencedirect.com/science/article/pii/S1077314222000017?dgcid=coauthor)
+>J. Chen, G. Yang, X. Ding, **Z. Guo**, and S. Wang. Computer Vision and Image Understanding, 2022. (CCF B)
 
 * [Fake face detection via adaptive manipulation traces extraction network](https://www.sciencedirect.com/science/article/pii/S107731422100014X)
->**Z. Guo**, G. Yang, J. Chen, and X. Sun. Computer Vision and Image Understanding, 2021. (CCF B) [[pdf]](https://www.sciencedirect.com/science/article/pii/S107731422100014X) [[code]](https://github.com/EricGzq/AMTENnet) [[dataset]](https://github.com/EricGzq/Hybrid-Fake-Face-Dataset)
+>**Z. Guo**, G. Yang, J. Chen, and X. Sun. Computer Vision and Image Understanding, 2021. (CCF B) [[code]](https://github.com/EricGzq/AMTENnet) [[dataset]](https://github.com/EricGzq/Hybrid-Fake-Face-Dataset)
 
 * [Blind detection of glow-based facial forgery](https://link.springer.com/article/10.1007/s11042-020-10098-y)
->**Z. Guo**, L. Hu, M. Xia, and G. Yang. Multimedia Tools and Applications, 2020. (CCF C) [[pdf]](https://link.springer.com/content/pdf/10.1007/s11042-020-10098-y.pdf) [[dataset]](https://github.com/EricGzq/GFF-Dataset)
+>**Z. Guo**, L. Hu, M. Xia, and G. Yang. Multimedia Tools and Applications, 2020. (CCF C) [[dataset]](https://github.com/EricGzq/GFF-Dataset)
 
 * [Speckle Noise Removal in Image-based Detection of Refractive Index Changes in Porous Silicon Microarrays](https://www.nature.com/articles/s41598-019-51435-y)
 >R. Ren, **Z. Guo**, Z. Jia, J. Yang, N. K. Kasabov, and C. Li. Scientific Reports, 2019. (SCI, IF=4.29)
