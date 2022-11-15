@@ -8,7 +8,7 @@ order:  1
 
 
 ## Papers
-* [A Data Augmentation Framework by Mining Structured Features for Fake Face Image Detection]()
+* [A Data Augmentation Framework by Mining Structured Features for Fake Face Image Detection](https://www.sciencedirect.com/science/article/abs/pii/S1077314222001655)
 >**Z. Guo**, G. Yang, D. Wang, and D. Zhang. Computer Vision and Image Understanding, 2023. (CCF B) [[code]](https://github.com/EricGzq/MSF)
 
 * [HDNet: A dual-stream network with progressive fusion for image hazing detection](https://www.sciencedirect.com/science/article/pii/S2214212622001314?dgcid=coauthor)
