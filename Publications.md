@@ -8,14 +8,14 @@ order:  1
 
 
 ## Papers
+* [Rethinking Gradient Operator for Exposing AI-enabled Face Forgeries]()
+>**Z. Guo**, G. Yang, D. Zhang, and M. Xia. Expert Systems With Applications, 2022. (Top Journal) [[arXiv]](https://arxiv.org/abs/2205.00767)
+
 * [A Data Augmentation Framework by Mining Structured Features for Fake Face Image Detection](https://www.sciencedirect.com/science/article/abs/pii/S1077314222001655)
 >**Z. Guo**, G. Yang, D. Wang, and D. Zhang. Computer Vision and Image Understanding, 2022. (CCF B) [[code]](https://github.com/EricGzq/MSF)
 
 * [HDNet: A dual-stream network with progressive fusion for image hazing detection](https://www.sciencedirect.com/science/article/pii/S2214212622001314?dgcid=coauthor)
 >J. Chen, G. Yang, M. Xia, **Z. Guo**, and T. Huang. Journal of Information Security and Applications, 2022. (CCF C)
-
-* [Rethinking Gradient Operator for Exposing AI-enabled Face Forgeries]()
->**Z. Guo**, G. Yang, D. Zhang, and M. Xia. [[arXiv]](https://arxiv.org/abs/2205.00767)
 
 * [Exposing Deepfake Face Forgeries with Guided Residuals]()
 >**Z. Guo**, G. Yang, J. Chen, and X. Sun. [[arXiv]](https://arxiv.org/abs/2205.00753)
