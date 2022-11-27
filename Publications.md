@@ -8,8 +8,8 @@ order:  1
 
 
 ## Papers
-* [Rethinking Gradient Operator for Exposing AI-enabled Face Forgeries]()
->**Z. Guo**, G. Yang, D. Zhang, and M. Xia. Expert Systems With Applications, 2022. (Top Journal) [[arXiv]](https://arxiv.org/abs/2205.00767) [[code]](https://github.com/EricGzq/GocNet-pytorch)
+* [Rethinking Gradient Operator for Exposing AI-enabled Face Forgeries](https://www.sciencedirect.com/science/article/abs/pii/S095741742202379X?via%3Dihub)
+>**Z. Guo**, G. Yang, D. Zhang, and M. Xia. Expert Systems With Applications, 2022. (Top Journal) [[code]](https://github.com/EricGzq/GocNet-pytorch)
 
 * [A Data Augmentation Framework by Mining Structured Features for Fake Face Image Detection](https://www.sciencedirect.com/science/article/abs/pii/S1077314222001655)
 >**Z. Guo**, G. Yang, D. Wang, and D. Zhang. Computer Vision and Image Understanding, 2022. (CCF B) [[code]](https://github.com/EricGzq/MSF)
