@@ -3,7 +3,7 @@ layout: page
 title:  Contact
 cover:  false
 menu:   true
-order:  3
+order:  1
 ---
 * Address
 > College of Computer Science and Electronic Engineering, Hunan University
