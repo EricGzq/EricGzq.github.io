@@ -1,17 +1,12 @@
 ---
 layout: page
-title:  Others
+title:  Useful Links
 cover:  false
 menu:   true
 order:  2
 ---
 
-> _Somebody has to win, so why not be me._
->
->                                      -- Kobe Bryant
 
-
-## Some useful links:
 * [人脸识别常用数据集](https://www.cnblogs.com/ansang/p/8137413.html)
 * [使命、愿景、价值观](https://zi.com/w/a/7a6auz)
 * [深度伪造报道](http://tv.cctv.com/2019/04/28/VIDE0aLKiWV83f2PrbZDF4G0190428.shtml)
