@@ -3,7 +3,7 @@ layout: page
 title:  Others
 cover:  false
 menu:   true
-order:  4
+order:  2
 ---
 
 > _Somebody has to win, so why not be me._
