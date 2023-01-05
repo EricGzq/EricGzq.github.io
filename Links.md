@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  Some useful links
+title:  Links
 cover:  false
 menu:   true
 order:  2
