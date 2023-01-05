@@ -46,7 +46,7 @@ Now, I am pursuing the Ph.D. in Computer Science and Technology with the Hunan U
 * Z. Guo and Z. Jia. No.2017SR351936 (多孔硅微阵列的反射光图像处理系统 v1.0).
 * Z. Guo and Z. Jia. No.2018SR408738 (PSM生物芯片反射光图像处理与分析系统 v2.0).
 
-## Honor
+## Awards
 * 2021.06, Outstanding Communist, Communist Party of China Hunan University Committee
 * 2020.12, Outstanding Graduate Cadres, Hunan University
 * 2020.12, Outstanding Volunteers, Hunan University
@@ -54,6 +54,6 @@ Now, I am pursuing the Ph.D. in Computer Science and Technology with the Hunan U
 * 2018.06, Graduate Provincial Scholarship, Xinjiang University
 * 2013.06, Outstanding League Member, Qingdao College, Ocean University of China
   
-## Experience
+## Service Experience
 * 2020.07 - 2020.08, Volunteer. During COVID-19, he served as a volunteer for service activities in Hunan university
 * 2019.10 - 2020.10, Minister. Doctoral Student Affairs Department, College of Computer Science and Electronic Engineering, Hunan University
