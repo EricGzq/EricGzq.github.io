@@ -9,8 +9,11 @@ My research interests are Computer Vision and Multimedia Forensics. In particula
 
 ## News
 >[2023/01/18] One paper is accepted to TMM!
+
 >[2022/11/24] One paper is accepted to ESWA!
+
 >[2022/11/10] One paper is accepted to CVIU!
+>
 
 ## Publications
 * [Exposing Deepfake Face Forgeries with Guided Residuals](https://ieeexplore.ieee.org/document/10017352)
