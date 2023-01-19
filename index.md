@@ -12,7 +12,7 @@ At present, I am a lecturer with [Xinjiang University](https://www.xju.edu.cn/in
 * [2022/11/10] One paper is accepted to CVIU!
 
 ## Publications
-NOTE: Corresponding Authors are indicated using *
+NOTE: corresponding authors are indicated using *
 
 * [Exposing Deepfake Face Forgeries with Guided Residuals](https://ieeexplore.ieee.org/document/10017352)
 >**Z. Guo**, G. Yang*, J. Chen, and X. Sun. IEEE Transactions on Multimedia, 2023. (CCF B)
