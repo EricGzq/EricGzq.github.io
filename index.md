@@ -8,6 +8,9 @@ Now, I am pursuing the Ph.D. in Computer Science and Technology with the Hunan U
 
 
 ## Publications
+* [Exposing Deepfake Face Forgeries with Guided Residuals](https://ieeexplore.ieee.org/document/10017352)
+>**Z. Guo**, G. Yang, J. Chen, and X. Sun. IEEE Transactions on Multimedia, 2023. (CCF B)
+
 * [Rethinking Gradient Operator for Exposing AI-enabled Face Forgeries](https://www.sciencedirect.com/science/article/abs/pii/S095741742202379X?via%3Dihub)
 >**Z. Guo**, G. Yang, D. Zhang, and M. Xia. Expert Systems With Applications, 2023. (Top Journal) [[code]](https://github.com/EricGzq/GocNet-pytorch)
 
@@ -16,9 +19,6 @@ Now, I am pursuing the Ph.D. in Computer Science and Technology with the Hunan U
 
 * [HDNet: A dual-stream network with progressive fusion for image hazing detection](https://www.sciencedirect.com/science/article/pii/S2214212622001314?dgcid=coauthor)
 >J. Chen, G. Yang, M. Xia, **Z. Guo**, and T. Huang. Journal of Information Security and Applications, 2022. (CCF C)
-
-* [Exposing Deepfake Face Forgeries with Guided Residuals]()
->**Z. Guo**, G. Yang, J. Chen, and X. Sun. [[arXiv]](https://arxiv.org/abs/2205.00753)
 
 * [Robust detection of dehazed images via dual-stream CNNs with adaptive feature fusion](https://www.sciencedirect.com/science/article/pii/S1077314222000017)
 >J. Chen, G. Yang, X. Ding, **Z. Guo**, and S. Wang. Computer Vision and Image Understanding, 2022. (CCF B)
