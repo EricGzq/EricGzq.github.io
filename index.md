@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About meE
+title: [English HomePage/中文主页(https://www.xju.edu.cn/index.htm)]
 cover: false
 ---
 
