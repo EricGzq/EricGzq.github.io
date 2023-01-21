@@ -13,6 +13,8 @@ At present, I am a lecturer with [Xinjiang University](https://www.xju.edu.cn/in
 * [2022/11/24] One paper is accepted to ESWA!
 * [2022/11/10] One paper is accepted to CVIU!
 
+<font color=red>Openings: We are looking for self-motivated students who are committed to research.</font>
+
 ## Publications
 NOTE: corresponding authors are indicated using *
 
