@@ -37,7 +37,7 @@ NOTE: corresponding authors are indicated using *
 >**Z. Guo**, G. Yang*, J. Chen, and X. Sun. Computer Vision and Image Understanding, 2021. (CCF B) [[code]](https://github.com/EricGzq/AMTENnet) [[dataset]](https://github.com/EricGzq/Hybrid-Fake-Face-Dataset)
 
 * [Blind detection of glow-based facial forgery](https://link.springer.com/article/10.1007/s11042-020-10098-y)
->**Z. Guo**, L. Hu, M. Xia, and G. Yang*. Multimedia Tools and Applications, 2020. (CCF C) [[dataset]](https://github.com/EricGzq/GFF-Dataset)
+>**Z. Guo**, L. Hu, M. Xia, and G. Yang*. Multimedia Tools and Applications, 2021. (CCF C) [[dataset]](https://github.com/EricGzq/GFF-Dataset)
 
 * [Speckle Noise Removal in Image-based Detection of Refractive Index Changes in Porous Silicon Microarrays](https://www.nature.com/articles/s41598-019-51435-y)
 >R. Ren, **Z. Guo**, Z. Jia*, J. Yang, N. K. Kasabov, and C. Li. Scientific Reports, 2019. (SCI, IF=4.29)
