@@ -11,9 +11,9 @@ At present, I am a lecturer with [Xinjiang University](https://www.xju.edu.cn/in
 >[『Homepage in Chinese (中文主页)』]()
 
 ## News
-* [2023/01/12] One paper is accepted to TMM!
-* [2022/11/24] One paper is accepted to ESWA!
-* [2022/11/10] One paper is accepted to CVIU!
+* [2023/01/12] One paper is accepted by TMM!
+* [2022/11/24] One paper is accepted by ESWA!
+* [2022/11/10] One paper is accepted by CVIU!
 
 ## Publications
 NOTE: corresponding authors are indicated using *
