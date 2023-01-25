@@ -3,7 +3,7 @@
 # You can change `author1` to your shortname.
 author1:
   name:              guozhiqing
-  email:             guozhiqing@hnu.edu.cn
+  email:             guozhiqing@xju.edu.cn
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
@@ -17,7 +17,7 @@ author1:
   # Social media icons in sidebar.
   # Comment/uncommet to show/hide. Rearrange to change the order in which they appear.
   social:
-    email:             guozhiqing@hnu.edu.cn
+    email:             guozhiqing@xju.edu.cn
     github:            https://github.com/EricGzq?tab=stars
     twitter:           https://twitter.com/EricGuo24
   
