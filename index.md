@@ -67,3 +67,7 @@ NOTE: corresponding authors are indicated using *
 ## Service Experience
 * 2020.07 - 2020.08, Volunteer. During COVID-19, he served as a volunteer for service activities in Hunan university
 * 2019.10 - 2020.10, Minister. Doctoral Student Affairs Department, College of Computer Science and Electronic Engineering, Hunan University
+
+## Contact
+Address: No.777, Huarui Road, Urumqi, China
+Email: guozhiqing[at]xju[dot]edu[dot]cn
