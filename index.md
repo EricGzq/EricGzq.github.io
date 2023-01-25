@@ -69,5 +69,5 @@ NOTE: corresponding authors are indicated using *
 * 2019.10 - 2020.10, Minister. Doctoral Student Affairs Department, College of Computer Science and Electronic Engineering, Hunan University
 
 ## Contacts
-* Address: No.777, Huarui Road, Urumqi, China
+* Address: No.777, Huarui Road, Urumqi, China.
 * Email: guozhiqing [at] xju [dot] edu [dot] cn
