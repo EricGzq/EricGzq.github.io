@@ -18,7 +18,7 @@ At present, I am a lecturer with [Xinjiang University](https://www.xju.edu.cn/in
 ## Publications
 NOTE: corresponding authors are indicated using *
 
-* [Exposing Deepfake Face Forgeries with Guided Residuals](https://ieeexplore.ieee.org/document/10017352)(**CCF B, Top Journal**)
+* [Exposing Deepfake Face Forgeries with Guided Residuals](https://ieeexplore.ieee.org/document/10017352) (CCF B, Top Journal)
 >**Z. Guo**, G. Yang*, J. Chen, and X. Sun. IEEE Transactions on Multimedia, 2023.
 
 * [Rethinking Gradient Operator for Exposing AI-enabled Face Forgeries](https://www.sciencedirect.com/science/article/abs/pii/S095741742202379X?via%3Dihub)
