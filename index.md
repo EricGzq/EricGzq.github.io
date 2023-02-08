@@ -22,7 +22,7 @@ NOTE: corresponding authors are indicated using *
 >**Z. Guo**, G. Yang*, J. Chen, and X. Sun. IEEE Transactions on Multimedia, 2023. (CCF B, Top Journal)
 
 * [Rethinking Gradient Operator for Exposing AI-enabled Face Forgeries](https://www.sciencedirect.com/science/article/abs/pii/S095741742202379X?via%3Dihub)
->**Z. Guo**, G. Yang*, D. Zhang, and M. Xia. Expert Systems With Applications, 2023. (Top Journal) [[code]](https://github.com/EricGzq/GocNet-pytorch)
+>**Z. Guo**, G. Yang*, D. Zhang, and M. Xia. Expert Systems with Applications, 2023. (Top Journal) [[code]](https://github.com/EricGzq/GocNet-pytorch)
 
 * [A Data Augmentation Framework by Mining Structured Features for Fake Face Image Detection](https://www.sciencedirect.com/science/article/abs/pii/S1077314222001655)
 >**Z. Guo**, G. Yang*, D. Wang, and D. Zhang. Computer Vision and Image Understanding, 2023. (CCF B) [[code]](https://github.com/EricGzq/MSF)
