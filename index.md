@@ -8,7 +8,7 @@ At present, I have been introduced to the [School of Information Science and Eng
 
 **<font color=black>We are looking for self-motivated students who are committed to research. Please feel free to contact me through the Email (attach your CV).</font>**
 
->[『Homepage in Chinese (中文主页)』]()
+>[『Homepage in Chinese (中文主页，暂不可用)』]()
 
 ## News
 * [2023/01/12] One paper is accepted by TMM!
