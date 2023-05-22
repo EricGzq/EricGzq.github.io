@@ -11,12 +11,16 @@ At present, I have been introduced to the [School of Information Science and Eng
 >[『Homepage in Chinese (中文主页，暂不可用)』]()
 
 ## News
-* [2023/01/12] One paper is accepted by TMM!
-* [2022/11/24] One paper is accepted by ESWA!
-* [2022/11/10] One paper is accepted by CVIU!
+* [2023/05/22] One paper is accepted to TOMM!
+* [2023/01/12] One paper is accepted to TMM!
+* [2022/11/24] One paper is accepted to ESWA!
+* [2022/11/10] One paper is accepted to CVIU!
 
 ## Publications
 NOTE: corresponding authors are indicated using *
+
+* [Enhancing Adversarial Embedding based Image Steganography via Clustering Modification Directions]()
+>Dewang Wang, G. Yang*, **Z. Guo**, and J. Chen. ACM Transactions on Multimedia Computing Communications and Applications, 2023. (CCF-B)
 
 * [Exposing Deepfake Face Forgeries with Guided Residuals](https://ieeexplore.ieee.org/document/10017352)
 >**Z. Guo**, G. Yang*, J. Chen, and X. Sun. IEEE Transactions on Multimedia, 2023. (CCF-B, Top Journal)
