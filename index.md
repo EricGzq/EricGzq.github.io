@@ -11,9 +11,9 @@ At present, I have been introduced to the [School of Information Science and Eng
 >[『Homepage in Chinese (中文主页，暂不可用)』]()
 
 ## News
-* [2023/05/22] One paper is accepted to TOMM!
+* [2023/05/22] One paper is accepted to ACM TOMM!
 * [2023/04/21] One patent is granted.
-* [2023/01/12] One paper is accepted to TMM!
+* [2023/01/12] One paper is accepted to IEEE TMM!
 * [2022/11/24] One paper is accepted to ESWA!
 * [2022/11/10] One paper is accepted to CVIU!
 
