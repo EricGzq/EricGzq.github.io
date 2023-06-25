@@ -22,7 +22,7 @@ At present, I have been introduced to the [School of Information Science and Eng
 NOTE: corresponding authors are indicated using *
 
 * [LDFnet: Lightweight Dynamic Fusion Network for Face Forgery Detection by Integrating Local Artifacts and Global Texture Information]()
->**Z. Guo**, L. Wang*, W. Yang, G. Yang *, and K. Li. IEEE Transactions on Circuits and Systems for Video Technology, 2023. (CCF-B, Top Journal)
+>**Z. Guo**, L. Wang*, W. Yang, G. Yang*, and K. Li. IEEE Transactions on Circuits and Systems for Video Technology, 2023. (CCF-B, Top Journal)
 
 * [Enhancing Adversarial Embedding based Image Steganography via Clustering Modification Directions](https://dl.acm.org/doi/abs/10.1145/3603377)
 >Dewang Wang, G. Yang*, **Z. Guo**, and J. Chen. ACM Transactions on Multimedia Computing Communications and Applications, 2023. (CCF-B)
