@@ -11,6 +11,7 @@ At present, I have been introduced to the [School of Information Science and Eng
 >[『Homepage in Chinese (中文主页，暂不可用)』]()
 
 ## News
+* [2023/06/21] One paper is accepted to IEEE TCSVT!
 * [2023/05/22] One paper is accepted to ACM TOMM!
 * [2023/04/21] One patent is granted.
 * [2023/01/12] One paper is accepted to IEEE TMM!
@@ -20,7 +21,10 @@ At present, I have been introduced to the [School of Information Science and Eng
 ## Publications
 NOTE: corresponding authors are indicated using *
 
-* [Enhancing Adversarial Embedding based Image Steganography via Clustering Modification Directions]()
+* [LDFnet: Lightweight Dynamic Fusion Network for Face Forgery Detection by Integrating Local Artifacts and Global Texture Information]()
+>**Z. Guo**, L. Wang*, W. Yang, G. Yang*, and K. Li. IEEE Transactions on Circuits and Systems for Video Technology, 2023. (CCF-B, Top Journal)
+
+* [Enhancing Adversarial Embedding based Image Steganography via Clustering Modification Directions](https://dl.acm.org/doi/abs/10.1145/3603377)
 >Dewang Wang, G. Yang*, **Z. Guo**, and J. Chen. ACM Transactions on Multimedia Computing Communications and Applications, 2023. (CCF-B)
 
 * [Exposing Deepfake Face Forgeries with Guided Residuals](https://ieeexplore.ieee.org/document/10017352)
