@@ -19,8 +19,9 @@ At present, I have been introduced to the [School of Information Science and Eng
 * [2022/11/10] One paper is accepted to CVIU!
 
 ## Research Funding, PI
-* "Research on Deepfake Face Passive Forensics for Public Opinion Security", National Natural Science Foundation of China (NSFC), Young Project, Grant NO.: 62302427, 01/2024-12/2026, ￥0.30M RMB, PI
-* 
+* "Research on Deepfake Face Passive Forensics for Public Opinion Security", National Natural Science Foundation of China (NSFC), Young Project, Grant NO.: 62302427, 01/2024-12/2026, ￥0.30M
+* "Research on Key Technologies of Face Image Authenticity Detection", Autonomous Region Natural Science Foundation, Young Project, 01/2024-12/2026, ￥0.07M
+* "Research on Efficient Passive Forensic Algorithm Based on Face Forgery Image", Autonomous Region Education Department Project, Grant NO.: XJEDU2023P009, 03/2023-03/2025, ￥0.05M
 
 ## Publications
 NOTE: corresponding authors are indicated using *
