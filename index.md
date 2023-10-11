@@ -11,6 +11,7 @@ At present, I have been introduced to the [School of Computer Science and Techno
 >[『Homepage in Chinese (中文主页，暂不可用)』]()
 
 ## News
+* [2023/10/11] One paper is accepted to IEEE TIFS!
 * [2023/06/21] One paper is accepted to IEEE TCSVT!
 * [2023/05/22] One paper is accepted to ACM TOMM!
 * [2023/04/21] One patent is granted.
