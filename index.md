@@ -27,8 +27,11 @@ At present, I have been introduced to the [School of Computer Science and Techno
 ## Publications
 NOTE: corresponding authors are indicated using *
 
+* [Constructing New Backbone Networks via Space-Frequency Interactive Convolution for Deepfake Detection](https://ieeexplore.ieee.org/document/10286083)
+>**Z. Guo**, Z. Jia*, L. Wang, D. Wang, G. Yang *, and N. Kasabov. IEEE Transactions on Information Forensics and Security, doi: 10.1109/TIFS.2023.3324739. (CCF-A, Top Journal)
+
 * [LDFnet: Lightweight Dynamic Fusion Network for Face Forgery Detection by Integrating Local Artifacts and Global Texture Information](https://ieeexplore.ieee.org/document/10163252)
->**Z. Guo**, L. Wang*, W. Yang, G. Yang *, and K. Li. IEEE Transactions on Circuits and Systems for Video Technology, 2023. (CCF-B, Top Journal)
+>**Z. Guo**, L. Wang*, W. Yang, G. Yang *, and K. Li. IEEE Transactions on Circuits and Systems for Video Technology, doi: 10.1109/TCSVT.2023.3289147. (CCF-B, Top Journal)
 
 * [Enhancing Adversarial Embedding based Image Steganography via Clustering Modification Directions](https://dl.acm.org/doi/abs/10.1145/3603377)
 >Dewang Wang, G. Yang*, **Z. Guo**, and J. Chen. ACM Transactions on Multimedia Computing Communications and Applications, 2023. (CCF-B)
