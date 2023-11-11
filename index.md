@@ -69,10 +69,10 @@ NOTE: corresponding authors are indicated using *
 * Z. Guo and Z. Jia. China Patent: CN201710413744.X
 
 ## Software Copyrights
-* Z. Guo and Z. Jia. No.2017SR719030 (微阵列荧光图像的倾斜校正系统 v1.0).
-* Z. Guo and Z. Jia. No.2017SR719435 (基于圆度判别的微阵列图像倾斜校正系统 v1.0).
-* Z. Guo and Z. Jia. No.2017SR351936 (多孔硅微阵列的反射光图像处理系统 v1.0).
-* Z. Guo and Z. Jia. No.2018SR408738 (PSM生物芯片反射光图像处理与分析系统 v2.0).
+* Z. Guo and Z. Jia. No.2017SR719030.
+* Z. Guo and Z. Jia. No.2017SR719435.
+* Z. Guo and Z. Jia. No.2017SR351936.
+* Z. Guo and Z. Jia. No.2018SR408738.
 
 ## Awards
 * 2021.06, Outstanding Communist, Communist Party of China Hunan University Committee
@@ -80,7 +80,6 @@ NOTE: corresponding authors are indicated using *
 * 2020.12, Outstanding Volunteers, Hunan University
 * 2018.06, Outstanding Graduate Thesis Award, Xinjiang University
 * 2018.06, Graduate Provincial Scholarship, Xinjiang University
-* 2013.06, Outstanding League Member, Qingdao College, Ocean University of China
   
 ## Service Experience
 * 2020.07 - 2020.08, Volunteer. During COVID-19, he served as a volunteer for service activities in Hunan university
