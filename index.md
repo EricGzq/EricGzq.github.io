@@ -68,12 +68,8 @@ NOTE: corresponding authors are indicated using *
 * Z. Guo and Z. Jia. China Patent: CN201710413734.6
 * Z. Guo and Z. Jia. China Patent: CN201710413744.X
 
-## Selected Honors
-* 2021.06, Outstanding Communist, Communist Party of China Hunan University Committee
-* 2020.12, Outstanding Graduate Cadres, Hunan University
-* 2018.06, Outstanding Graduate Thesis Award, Xinjiang University
-* 2018.06, Graduate Provincial Scholarship, Xinjiang University
-  
+
+
 ## Academic Services
 Technical Committee：
 * Elected Member, China Society of Image and Graphics (CSIG), Digital Forensics and Security Technical Committee.
