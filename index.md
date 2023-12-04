@@ -79,14 +79,14 @@ NOTE: corresponding authors are indicated using *
 * Member, China Computer Federation (CCF), Computer Vision Technical Committee.
 * Member, China Computer Federation (CCF), Artificial Intelligence and Pattern Recognition Technical Committee.
 
-Journal Reviewer
+Journal Reviewer:
 * IEEE Transactions on Information Forensics and Security （TIFS）
 * IEEE Transactions on Multimedia (TMM)
 * IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
 * ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM)
 * Computer Vision and Image Understanding (CVIU)
 
-Conference Reviewer
+Conference Reviewer:
 * ACM Multimedia (MM)
 
 ## Contacts
