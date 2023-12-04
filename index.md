@@ -68,22 +68,26 @@ NOTE: corresponding authors are indicated using *
 * Z. Guo and Z. Jia. China Patent: CN201710413734.6
 * Z. Guo and Z. Jia. China Patent: CN201710413744.X
 
-## Software Copyrights
-* Z. Guo and Z. Jia. No.2017SR719030.
-* Z. Guo and Z. Jia. No.2017SR719435.
-* Z. Guo and Z. Jia. No.2017SR351936.
-* Z. Guo and Z. Jia. No.2018SR408738.
-
-## Awards
+## Selected Honors
 * 2021.06, Outstanding Communist, Communist Party of China Hunan University Committee
 * 2020.12, Outstanding Graduate Cadres, Hunan University
-* 2020.12, Outstanding Volunteers, Hunan University
 * 2018.06, Outstanding Graduate Thesis Award, Xinjiang University
 * 2018.06, Graduate Provincial Scholarship, Xinjiang University
   
-## Service Experience
-* 2020.07 - 2020.08, Volunteer. During COVID-19, he served as a volunteer for service activities in Hunan university
-* 2019.10 - 2020.10, Minister. Doctoral Student Affairs Department, College of Computer Science and Electronic Engineering, Hunan University
+## Academic Services
+* Elected Member, China Society of Image and Graphics (CSIG), Digital Forensics and Security Technical Committee.
+* Member, China Computer Federation (CCF), Computer Vision Technical Committee.
+* Member, China Computer Federation (CCF), Artificial Intelligence and Pattern Recognition Technical Committee.
+
+Journal Reviewer
+* IEEE Transactions on Information Forensics and Security （TIFS）
+* IEEE Transactions on Multimedia (TMM)
+* IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
+* ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM)
+* Computer Vision and Image Understanding (CVIU)
+
+Conference Reviewer
+* ACM Multimedia (MM)
 
 ## Contacts
 * Address: No.777, Huarui Road, Urumqi, China.
