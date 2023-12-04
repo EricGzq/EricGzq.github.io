@@ -57,13 +57,6 @@ NOTE: corresponding authors are indicated using *
 * [Blind Detection of Glow-based Facial Forgery](https://link.springer.com/article/10.1007/s11042-020-10098-y)
 >**Z. Guo**, L. Hu, M. Xia, and G. Yang*. Multimedia Tools and Applications, 2021. (CCF-C) [[dataset]](https://github.com/EricGzq/GFF-Dataset)
 
-* [Speckle Noise Removal in Image-based Detection of Refractive Index Changes in Porous Silicon Microarrays](https://www.nature.com/articles/s41598-019-51435-y)
->R. Ren, **Z. Guo**, Z. Jia*, J. Yang, N. K. Kasabov, and C. Li. Scientific Reports, 2019. (SCI, IF=4.29)
-
-* [Image Processing of Porous Silicon Microarray in Refractive Index Change Detection](https://www.mdpi.com/1424-8220/17/6/1335)
->**Z. Guo**, Z. Jia*, J. Yang, N. K. Kasabov, and C. Li. Sensors, 2017. (SCI, IF=2.677)
-
-
 ## Patents
 * Z. Guo and Z. Jia. China Patent: CN201710413734.6
 * Z. Guo and Z. Jia. China Patent: CN201710413744.X
