@@ -75,7 +75,7 @@ NOTE: corresponding authors are indicated using *
 * 2018.06, Graduate Provincial Scholarship, Xinjiang University
   
 ## Academic Services
-Technical Committee Services：
+Technical Committee：
 * Elected Member, China Society of Image and Graphics (CSIG), Digital Forensics and Security Technical Committee.
 * Member, China Computer Federation (CCF), Computer Vision Technical Committee.
 * Member, China Computer Federation (CCF), Artificial Intelligence and Pattern Recognition Technical Committee.
